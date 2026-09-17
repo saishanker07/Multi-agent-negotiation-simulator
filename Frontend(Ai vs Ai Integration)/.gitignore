@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Agents cache
+agents/__pycache__/
+
+# Environment variables / API keys
+.env
